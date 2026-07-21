@@ -2,5 +2,5 @@
   "latest_version": "1.0.16",
   "build_number": 32,
   "apk_url": "https://github.com/kolekarmahadev20/Scrap-testing-for-updates/releases/download/ScrapApp16.32/app-release16.32.apk",
-  "force": true
+  "force": false
 }
